@@ -16,3 +16,5 @@ numpy
 pip install numpy opencv-python
 
 Note: Compatability with Python 2.x is not officially tested.
+
+Important file link:-https://drive.google.com/file/d/1jL1gaH_AkWeg7vnYNOXV7ppQpxVWs-NI/view?usp=sharing
